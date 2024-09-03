@@ -7,4 +7,5 @@ Gain Knowledge: In this section, users can watch an informative video about sust
 
 Play Quiz: Users can challenge themselves with a sustainability-themed quiz to test their knowledge.
 
-The app provides an easy and educational experience, encouraging users to both learn and actively participate in sustainability efforts.  got this from chatgpt....someone adjust this and give it
+The app provides an easy and educational experience, encouraging users to both learn and actively participate in sustainability efforts.
+
